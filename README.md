@@ -4,7 +4,7 @@ Propuesta de solución al problema [Resuelve](https://github.com/resuelve/prueba
 
 ## Manual de usuario
 
-- Descargar archivo Json para el [test](assets/json.txt)
+- Descargar archivo Json para el test [AQUI](https://github.com/epaulf/resuelve/blob/main/src/assets/json.txt)
 
 - Dar clic en el inpud de cargar archivo
 
